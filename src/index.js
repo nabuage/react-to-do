@@ -7,8 +7,6 @@ import { BrowserRouter, Routes, Route, Switch } from "react-router-dom";
 import NotMatch from "./functionBased/pages/NotMatch";
 import Navbar from "./functionBased/components/Navbar";
 
-//const element = <h1>Hello from Create React App</h1>;
-
 ReactDOM.render(
     <React.StrictMode>
         <BrowserRouter>
